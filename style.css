@@ -1,0 +1,14 @@
+.winner {
+    color: green;
+}
+.loser {
+    color: red;
+}
+       
+body {
+    background-color: aqua;
+}
+
+.container-lg {
+    text-align: center;
+}
